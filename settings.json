@@ -1,0 +1,58 @@
+{
+    
+    "projetoBlueTeam": {
+      "nome": "Blue Team Playbooks",
+      "descricao": "Uma coleção de recursos e playbooks para fortalecer a equipe Blue Team em segurança cibernética.",
+      "autor": "Alexandre Santos",
+      "email": "alexandresantosal1991@protonmail.com",
+      "repositorio": "https://github.com/alexandresantosal91/Blue-Team-Playbooks",
+      "versao": "1.0",
+      "licenca": "GNU General Public License v3.0"
+    },
+
+    "indice": [
+      {
+        "nome": "Introdução",
+        "descricao": "",
+        "link": "https://github.com/alexandresantosal91/Blue-Team-Playbooks#introdução"
+      },
+      {
+        "nome": "Como Usar Este Repositório",
+        "descricao": "",
+        "link": "https://github.com/alexandresantosal91/Blue-Team-Playbooks#como-usar-este-repositório"
+      },
+      {
+        "nome": "Playbooks",
+        "descricao": "",
+        "link": "https://github.com/alexandresantosal91/Blue-Team-Playbooks#playbooks"
+      },
+      {
+        "nome": "Ferramentas",
+        "descricao": "",
+        "link": "https://github.com/alexandresantosal91/Blue-Team-Playbooks#ferramentas"
+      },
+      {
+        "nome": "Técnicas",
+        "descricao": "",
+        "link": "https://github.com/alexandresantosal91/Blue-Team-Playbooks#técnicas"
+      },
+      {
+        "nome": "Procedimentos",
+        "descricao": "",
+        "link": "https://github.com/alexandresantosal91/Blue-Team-Playbooks#procedimentos"
+      },
+      {
+        "nome": "Livros que Usei para os Playbooks",
+        "descricao": "",
+        "link": "https://github.com/alexandresantosal91/Blue-Team-Playbooks#livros-que-usei-para-os-playbooks"
+      },
+      {
+        "nome": "Agradecimentos",
+        "descricao": "",
+        "link": "https://github.com/alexandresantosal91/Blue-Team-Playbooks#agradecimentos"
+      }
+
+    ]
+
+  }
+  
