@@ -6,16 +6,19 @@
 [![Autor](https://img.shields.io/badge/Author-Alexandre%20Santos-blue.svg)](https://www.linkedin.com/in/alexandresantosal/)
 [![Licença](https://img.shields.io/npm/l/react)](https://github.com/alexandresantosal91/Blue-Team-Playbooks/blob/main/LICENSE)
 
-## **Índice**
+<h2><strong>Índice</strong></h2>
 
-1. [**Introdução**](#introdução)
-2. [**Como Usar Este Repositório**](#como-usar-este-repositório)
-3. [**Playbooks**](#playbooks)
-4. [**Ferramentas**](#ferramentas)
-5. [**Técnicas**](#técnicas)
-6. [**Procedimentos**](#procedimentos)
-7. [**Livros que Usei para os Playbooks**](#livros-que-usei-para-os-playbooks)
-8. [**Agradecimentos**](#agradecimentos)
+<ol>
+  <li><a href="#introdução"><strong>Introdução</strong></a></li>
+  <li><a href="#como-usar-este-repositório"><strong>Como Usar Este Repositório</strong></a></li>
+  <li><a href="#playbooks"><strong>Playbooks</strong></a></li>
+  <li><a href="#ferramentas"><strong>Ferramentas</strong></a></li>
+  <li><a href="#técnicas"><strong>Técnicas</strong></a></li>
+  <li><a href="#procedimentos"><strong>Procedimentos</strong></a></li>
+  <li><a href="#livros-que-usei-para-os-playbooks"><strong>Livros que Usei para os Playbooks</strong></a></li>
+  <li><a href="#agradecimentos"><strong>Agradecimentos</strong></a></li>
+</ol>
+
 
 ## **Introdução**
 
@@ -31,17 +34,17 @@
 
 <p align="justify">Este repositório foi projetado para fornecer uma variedade de recursos úteis para a equipe Blue Team. Aqui estão algumas orientações sobre como aproveitar ao máximo o conteúdo deste repositório:</p>
 
-1. [**Índice**](#índice): O índice acima lista todas as seções disponíveis neste repositório. Use-o como um guia para encontrar o que você procura.
-
-2. [**Playbooks**:](#playbooks) Na seção "playbooks," você encontrará uma lista de playbooks que podem ser usados como guias e referências para operações de segurança cibernética. Cada playbook é acompanhado de uma breve descrição e links para documentação relevante.
-
-3. [**Ferramentas**:](#ferramentas) A seção "Ferramentas" descreve as ferramentas disponíveis neste repositório. Saiba como usá-las para aprimorar sua segurança cibernética.
-
-4. [**Técnicas**:](#técnicas) Em "Técnicas," você encontrará informações sobre técnicas de segurança cibernética relevantes. Explore essas técnicas para melhorar suas habilidades de defesa.
-
-5. [**Procedimentos**:](#procedimentos) Na seção "Procedimentos," você encontrará práticas recomendadas e procedimentos a serem seguidos pela equipe Blue Team.
-
-6. [**Livros que Usei para os Playbooks**:](#livros-que-usei-para-os-playbooks) Se você estiver interessado em aprender mais sobre os tópicos abordados nos playbooks, confira a lista de livros que inspiraram nosso trabalho.
+<ol>
+  <li><a href="#índice">Índice</a>: Esta seção lista todas as seções disponíveis neste repositório. Use-a como um guia para encontrar o que você procura.</li>
+  <li><a href="#introdução">Introdução</a>: Uma introdução ao projeto Blue Team Playbooks.</li>
+  <li><a href="#como-usar-este-repositório">Como Usar Este Repositório</a>: Você está aqui! Este é um guia sobre como aproveitar ao máximo o conteúdo do repositório.</li>
+  <li><a href="#playbooks">Playbooks</a>: Lista de playbooks disponíveis com uma breve descrição de cada um.</li>
+  <li><a href="#ferramentas">Ferramentas</a>: Descrição das ferramentas incluídas no repositório e como elas podem ser usadas.</li>
+  <li><a href="#técnicas">Técnicas</a>: Explore técnicas relevantes relacionadas à equipe Blue Team.</li>
+  <li><a href="#procedimentos">Procedimentos</a>: Descubra procedimentos e práticas recomendadas a serem seguidos pela equipe Blue Team.</li>
+  <li><a href="#livros-que-usei-para-os-playbooks">Livros que Usei para os Playbooks</a>: Confira a lista de livros que inspiraram nosso trabalho.</li>
+  <li><a href="#agradecimentos">Agradecimentos</a>: Reconhecimento e agradecimento a colaboradores, contribuintes e fontes de recursos que ajudaram a criar o projeto.</li>
+</ol>
 
 <p align="justify">Aproveite ao máximo este repositório, explore o conteúdo e use-o para fortalecer suas operações de segurança cibernética. Se você tiver alguma dúvida ou precisar de orientação adicional, não hesite em entrar em contato conosco por <a href="mailto:alexandresantosal1991@protonmail.com">alexandresantosal1991@protonmail.com</a>.</p>
 
@@ -49,23 +52,13 @@
 
 ## **Playbooks**
 
-<p align="justify"></p>
-
 ## **Ferramentas**
-
-<p align="justify"></p>
 
 ## **Técnicas**
 
-<p align="justify"></p>
-
 ## **Procedimentos**
 
-<p align="justify"></p>
-
 ## **Livros que Usei para os Playbooks**
-
-<p align="justify"></p>
 
 ## **Agradecimentos**
 
