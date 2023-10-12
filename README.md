@@ -1,6 +1,6 @@
 # Blue Team Playbooks
 
-![Imagem de Capa](img/red-team-blue-team-curitiba-1-1024x683.jpg.webp)
+![Imagem de Capa](src/img/red-team-blue-team-curitiba-1-1024x683.jpg.webp)
 
 [![Status do Repositório](https://img.shields.io/badge/Repositório%20-Maintained-dark%20green.svg)]()
 [![Autor](https://img.shields.io/badge/Author-Alexandre%20Santos-blue.svg)](https://www.linkedin.com/in/alexandresantosal/)
