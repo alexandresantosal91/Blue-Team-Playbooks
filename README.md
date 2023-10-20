@@ -7,7 +7,7 @@
 <body>
 
   <header align="center">
-    <img src="src/img/red-team-blue-team-curitiba-1-1024x683.jpg.webp" alt="Imagem de Capa">
+    <img src="assets/img/red-team-blue-team-curitiba-1-1024x683.jpg.webp" alt="Imagem de Capa">
     <br>
     <a href="https://example.com/repo"><img src="https://img.shields.io/badge/Repositório%20-Maintained-dark%20green.svg" alt="Status do Repositório"></a>
     <a href="https://www.linkedin.com/in/alexandresantosal/"><img src="https://img.shields.io/badge/Author-Alexandre%20Santos-blue.svg" alt="Autor"></a>
@@ -35,7 +35,7 @@
 
 <p align="justify">Nossa visão é capacitar equipes de defesa cibernética com recursos de qualidade que possam ser usados para melhorar a detecção, resposta e mitigação de ameaças cibernéticas. Acreditamos que uma equipe Blue Team bem equipada é fundamental para manter a segurança de sistemas e dados em um ambiente cada vez mais desafiador.<p>
 
-<p align="justify">Estamos comprometidos em atribuir o devido crédito a todas as fontes e recursos usados neste projeto e incentivamos a colaboração e contribuições da comunidade. Se você tiver alguma dúvida ou feedback, sinta-se à vontade para entrar em contato conosco por <a href="mailto:alexandresantos_al@protonmail.com">alexandresantosal1991@protonmail.com</a>.</p>
+<p align="justify">Estamos comprometidos em atribuir o devido crédito a todas as fontes e recursos usados neste projeto e incentivamos a colaboração e contribuições da comunidade. Se você tiver alguma dúvida ou feedback, sinta-se à vontade para entrar em contato conosco por <a href="mailto:alexandresantos_al@protonmail.com">alexandresantos_al@protonmail.com</a>.</p>
 
 <p align="justify">Abaixo, você encontrará seções detalhadas que abrangem tudo, desde instruções sobre como usar este repositório até uma lista de livros que inspiraram nossos playbooks.</p>
 </section>
