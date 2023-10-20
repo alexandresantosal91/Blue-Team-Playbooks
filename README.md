@@ -35,7 +35,7 @@
 
 <p align="justify">Nossa visão é capacitar equipes de defesa cibernética com recursos de qualidade que possam ser usados para melhorar a detecção, resposta e mitigação de ameaças cibernéticas. Acreditamos que uma equipe Blue Team bem equipada é fundamental para manter a segurança de sistemas e dados em um ambiente cada vez mais desafiador.<p>
 
-<p align="justify">Estamos comprometidos em atribuir o devido crédito a todas as fontes e recursos usados neste projeto e incentivamos a colaboração e contribuições da comunidade. Se você tiver alguma dúvida ou feedback, sinta-se à vontade para entrar em contato conosco por <a href="mailto:alexandresantosal1991@protonmail.com">alexandresantosal1991@protonmail.com</a>.</p>
+<p align="justify">Estamos comprometidos em atribuir o devido crédito a todas as fontes e recursos usados neste projeto e incentivamos a colaboração e contribuições da comunidade. Se você tiver alguma dúvida ou feedback, sinta-se à vontade para entrar em contato conosco por <a href="mailto:alexandresantos_al@protonmail.com">alexandresantosal1991@protonmail.com</a>.</p>
 
 <p align="justify">Abaixo, você encontrará seções detalhadas que abrangem tudo, desde instruções sobre como usar este repositório até uma lista de livros que inspiraram nossos playbooks.</p>
 </section>
@@ -398,7 +398,7 @@
 <section id="agradecimentos">
 <h2>Agradecimentos</h2>
 
-<p align="justify">Se você deseja colaborar, fornecer feedback ou fazer parte deste esforço contínuo, não hesite em entrar em contato conosco por <a href="mailto:alexandresantosal1991@protonmail.com">alexandresantosal1991@protonmail.com</a>. A colaboração é fundamental para avançarmos juntos na defesa cibernética.</p>
+<p align="justify">Se você deseja colaborar, fornecer feedback ou fazer parte deste esforço contínuo, não hesite em entrar em contato conosco por <a href="mailto:alexandresantos_al@protonmail.com">alexandresantos_al@protonmail.com</a>. A colaboração é fundamental para avançarmos juntos na defesa cibernética.</p>
 </section>
 </body>
 </html>
